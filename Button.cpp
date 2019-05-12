@@ -1,4 +1,4 @@
-#include "stdafx.hpp"
+#include "pch.hpp"
 #include "Button.hpp"
 
 Button::Button(sf::Vector2f position, sf::Vector2f size, sf::Font* font, std::string text, unsigned character_size, sf::Color buttonColor, sf::Color idleButtonColor,
